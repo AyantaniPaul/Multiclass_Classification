@@ -5,6 +5,8 @@ This is a Liver Cirrhosis Stage Classification project. Several classification t
 
 Source - https://www.kaggle.com/datasets/aadarshvelu/liver-cirrhosis-stage-classification/data
 
+If you are unable to render code block for some reason, visit the Kaggle page to read the same project - https://www.kaggle.com/code/ayantanipaul/livercirhossis-stage-classification
+
 ## **`Context`**
  Cirrhosis results from prolonged liver damage, leading to extensive scarring, often due to conditions like hepatitis or chronic alcohol consumption. The scar tissue prevents the liver working properly. Cirrhosis is sometimes called end-stage liver disease because it happens after other stages of damage from conditions that affect the liver. Two of the most well-known causes of liver cirrhosis are long-term excessive alcohol consumption and hepatitis C virus infection.. The data provided is sourced from a Mayo Clinic study on primary biliary cirrhosis (PBC) of the liver carried out from 1974 to 1984.
 
